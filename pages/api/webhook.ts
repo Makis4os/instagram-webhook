@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import type { NextApiRequest, NextApiResponse } from "next";
 
 const VERIFY_TOKEN = "my_secret_token";
